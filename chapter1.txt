@@ -1,1 +1,2 @@
 This is the first chapter and it is about learning version control
+This is the feature 1 added
