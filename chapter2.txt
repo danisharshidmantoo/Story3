@@ -1,1 +1,2 @@
 This is the first part of the chapter 2
+This is the second part of the feature added
